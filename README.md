@@ -6,10 +6,10 @@
 
 ### Some of my projects
 
-<a href="https://github.com/DoubleBridges/codestats-profile-readme">
+<a href="https://github.com/DoubleBridges/nutrivurv-fe">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleBridges&repo=nutrivurv-fe" alt="nutrivurv-fe" />
 </a>
-<a href="https://github.com/DoubleBridges/Geometry-Dash-Menu-Music-Randomizer">
+<a href="https://github.com/DoubleBridges/Game-of-life-React">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DoubleBridges&repo=Game-of-life-React" alt="Game-of-life-React" />
 </a>
 
